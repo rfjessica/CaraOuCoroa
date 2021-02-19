@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cara ou Coroa</string>
+    <string name="msg_jogo">Escolha uma opção</string>
+    <string name="radio_cara">Cara</string>
+    <string name="radio_coroa">Coroa</string>
+    <string name="btn_envia">Enviar</string>
+    <string name="btn_limpa">Limpar</string>
+    <string name="btn_volta">Voltar</string>
+</resources>
